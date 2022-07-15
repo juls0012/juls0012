@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juls0012 a software engineer
-- 👀 I’m interested in enjoy my life every day
+- 👀 I’m interested learning new stuff each day of my life
 - 🌱 I’m currently imporving my skills as a full stack developer
 
 
